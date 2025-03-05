@@ -15,29 +15,6 @@ A modern, fast, and scalable **E-commerce platform** built using **React** and *
 - **Package Manager:** npm
 - **Linting & Formatting:** ESLint
 
-## Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone <repository_url>
-   cd vite-project
-   ```
-
-2. **Install dependencies:**
-   ```sh
-   npm install
-   ```
-
-3. **Start the development server:**
-   ```sh
-   npm run dev
-   ```
-
-4. **Build for production:**
-   ```sh
-   npm run build
-   ```
-
 ## Folder Structure
 
 ```
